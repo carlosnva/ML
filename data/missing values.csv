@@ -1,0 +1,22 @@
+,Missing Ratio
+health__homicides_per_100k,60.481
+health__pct_excessive_drinking,29.277
+health__pct_adult_smoking,13.794
+health__motor_vehicle_crash_deaths_per_100k,12.138
+health__pop_per_dentist,7.04
+health__pop_per_primary_care_physician,6.594
+health__pct_low_birthweight,5.241
+health__air_pollution_particulate_matter,1.051
+health__pct_adult_obesity,0.159
+health__pct_diabetes,0.159
+health__pct_physical_inacticity,0.159
+econ__pct_uninsured_children,0.159
+econ__pct_uninsured_adults,0.159
+demo__pct_non_hispanic_white,0.159
+demo__pct_non_hispanic_african_american,0.159
+demo__pct_hispanic,0.159
+demo__pct_female,0.159
+demo__pct_below_18_years_of_age,0.159
+demo__pct_asian,0.159
+demo__pct_american_indian_or_alaskan_native,0.159
+demo__pct_aged_65_years_and_older,0.159

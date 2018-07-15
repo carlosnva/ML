@@ -1,0 +1,21 @@
+\begin{thebibliography}{1}
+
+\bibitem{Jones2009}
+Charlotte~A. Jones, Arjuna Perera, Michelle Chow, Ivan Ho, John Nguyen, and
+  Shahnaz Davachi.
+\newblock Cardiovascular disease risk among the poor and homeless - what we
+  know so far.
+\newblock {\em Curr Cardiol Rev}, 5(1):69--77, Jan 2009.
+\newblock CCR-5-69[PII].
+
+\bibitem{Breiman1996}
+Leo Breiman.
+\newblock Stacked regressions.
+\newblock {\em Machine Learning}, 24(1):49--64, Jul 1996.
+
+\bibitem{Wolpert1992}
+David~H. Wolpert.
+\newblock Stacked generalization.
+\newblock {\em Neural Networks}, 5(2):241 -- 259, 1992.
+
+\end{thebibliography}
